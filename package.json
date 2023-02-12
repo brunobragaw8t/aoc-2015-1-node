@@ -1,0 +1,8 @@
+{
+  "name": "aoc-2015-1-node",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
